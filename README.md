@@ -1,7 +1,7 @@
 # ResidentialOccupancyScheduleSimulator
 
 ## Objective
-Residential Occupancy Schedule Simulator (ROSS) creates a stochastic residential occupancy schedule by referencing occupancy schedules, extracted from a large smart thermostat dataset (over 90,000 thermostat data). Through ROSS, the BEM community will easily have access to a data-driven residential occupancy schedule.
+Residential Occupancy Schedule Simulator (ROSS) creates a stochastic residential occupancy schedule by referencing occupancy schedules, extracted from a large smart thermostat dataset (over 90,000 thermostat data). Through ROSS, the Building Energy Modeling (BEM) community will have better access to a data-driven residential occupancy schedule.
 
 ## Methodology
 ROSS references the occupancy schedules, identified through the time-series K-means clutering method using the ecobee Donate Your Data (DYD) dataset, to stochastically create a residential occupancy schedule. 
