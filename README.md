@@ -21,6 +21,17 @@ More details can be found in a journal paper, which is soon to be submitted to E
     - Day of the week: from Mon to Sun
 4. Once success, check out the result folder to see the csv file you created!
 
+## Contributors
+- [Wooyoung Jung]: Assistant Professor at the University of Arizona,
+- [Zhe (Walter) Wang]: Assistant Professor at the Hong Kong University of Science and Technology,
+- [Tianzhen Hong]: Senior Scientist at Lawrence Berkeley National Laboratory,
+- [Farrokh Jazizadeh]: Associate Professor at Virginia Tech.
+
 ## Key references
 - ecobee, Donate Your Data, https://ecobee.com/donate-your-data/, accessed 09.2022.
 - J. Page, D. Robinson, N. Morel, and J. L. Scartezzini, A generalised stochastic model for the simulation of occupant presence. Energy and Buildings, 2008. 40(2): p. 83-98.
+
+[Wooyoung Jung]: https://hubs.engr.arizona.edu/director.html
+[Zhe (Walter) Wang]: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=zhe-wang-cezhewang
+[Tianzhen Hong]: https://eta.lbl.gov/people/tianzhen-hong
+[Farrokh Jazizadeh]: https://www.inform-lab.org/farrokh-jazizadeh
