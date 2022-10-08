@@ -8,7 +8,8 @@ ROSS references the occupancy schedules, identified through the time-series K-me
 
 The stochastic nature of ROSS comes from an inhomogeous Markov chain, where the transitional probabilities are calculated using the representative occupancy schedules, and the inverse function method, which selected the occupancy status of the next step. The representative schedules were found through the time-series K-means clustering method using over 90,000 thermostat data at a five-minute interval in the DYD dataset.
 
-More details can be found in a journal paper, which is soon to be submitted to Energy and Buildings.
+More details will be shared once the paper below gets published.
+- W. Jung, Z. Wang, T. Hong, F. Jazizadeh (2022) Smart Thermostat Data-driven Residential Occupancy Schedules and Development of a Residential Occupancy Schedule Simulator. TBD.
 
 ## Instruction
 1. Clone this repository,
