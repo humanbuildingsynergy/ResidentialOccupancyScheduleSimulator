@@ -139,9 +139,9 @@ def select_randomless(ipt: str):
 
     ipt = str(ipt).lower()
     if ipt == "high":
-        opt = 20
+        opt = 10
     elif ipt == "medium":
-        opt = 200
+        opt = 100
     elif ipt == "low":
         opt = 1000
     else:
