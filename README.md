@@ -11,6 +11,15 @@ The stochastic nature of ROSS comes from an inhomogeous Markov chain, where the 
 More details will be shared once the paper below gets published.
 - W. Jung, Z. Wang, T. Hong, F. Jazizadeh (2022) Smart Thermostat Data-driven Residential Occupancy Schedules and Development of a Residential Occupancy Schedule Simulator. Building and Environment (Submitted in May/2023).
 
+## Other features.
+In the 'resource' folder, there are csv files that contain the representative occupancy schedules, identified through this research effort. The following are the assumptions made in each method/subfolder:
+- method_00: This method assumed that the 'Sleep' schedule represents occupancy. 
+- method_01: This method assumed that the 'Home' and 'Sleep' schedules represent occupancy. 
+
+The reasons for the abovementioned assumptions: 
+- 'Sleep' schedule: Since occupants are stationary while asleep, which become undetectable by passive infrared sensors that ecobee utilizes.
+- 'Hhome' schedule: This schedule can be defined by the user(s), representing a typical time to be at home.
+
 ## Instruction
 1. Clone this repository,
 2. Execute ROSS.py,
